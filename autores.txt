@@ -1,5 +1,5 @@
 Gracias
-DropboxUSB
+Dropbox
 MSN Messenger
 Tuenti
 Raton
@@ -7,9 +7,9 @@ Steve y Wozniak
 Editordetextos
 Visicalc
 Photoshop
-Tim Berners Lee
-Tarjeta Gráfica
-Emailcartero lento 
+Tim Berners Lee - Texto sin formato - HTML
+Gráficos 3D - William Fetter 
+Email - cartero lento 
 Moodle Fotocopias
 
 Char IRC
@@ -18,8 +18,8 @@ Google Maps
 Lenguaje C ensamblador
 YouTube
 GMail
+Memorias USB -  Amir Ban, Dov Moran and Oron Ogdan
 
 
-Texto formato HTMl
 
-portatio Alan Kay
+portatil - Alan Kay
