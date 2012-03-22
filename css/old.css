@@ -16,7 +16,7 @@ body {
   top: 0px;
   display: block;
   overflow: hidden;
-  background: #000;
+  background: #778;
 }
 
 .slides {
@@ -41,10 +41,10 @@ body {
   left: 50%;
   top: 50%;
   margin-top: -350px;
-  background-color: #333;
-  background: -webkit-gradient(linear, left bottom, left top, from(#000), to(#333));
-  background: -moz-linear-gradient(bottom, #000, #333);
-  background: linear-gradient(bottom, #000, #333);
+  background-color: #eee;
+  background: -webkit-gradient(linear, left bottom, left top, from(#bbd), to(#fff));
+  background: -moz-linear-gradient(bottom, #bbd, #fff);
+  background: linear-gradient(bottom, #bbd, #fff);
   -webkit-transition: margin 0.25s ease-in-out;
   -moz-transition: margin 0.25s ease-in-out;
   -o-transition: margin-left 0.25s ease-in-out;
@@ -200,8 +200,7 @@ body {
 .slide.past {
   visibility: visible;
   display: block;
-  margin-left: -1500px;
-  opacity: 0.4;
+  margin-left: -1400px;
 }
 
 .slide.current {
@@ -213,8 +212,7 @@ body {
 .slide.future {
   visibility: visible;
   display: block;
-  margin-left: 600px;
-  opacity: 0.4;
+  margin-left: 500px;
 }
 
 .slide.far-future {
@@ -260,7 +258,7 @@ header {
   font-family: 'Droid Sans';
   font-weight: normal;
   letter-spacing: -.05em;
-  color: white;
+  color: black;
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
   position: absolute;
   left: 30px;
@@ -273,7 +271,6 @@ header {
 h1 {
   font-size: 100%;
   display: inline;
-  color: white !important;
   font-weight: normal;
   padding: 0;
   margin: 0;
@@ -281,7 +278,7 @@ h1 {
 
 h2 {
   font-family: 'Droid Sans';
-  color: white;
+  color: black;
   font-size: 22px;
   padding: 0;
   margin: 15px 0 5px 0;
@@ -293,7 +290,7 @@ h2:first-child {
 
 section, footer {
   font-family: 'Droid Sans';
-  color: #eee;
+  color: #3f3f3f;
   text-shadow: rgba(0, 0, 0, 0.2) 0 2px 5px;
   margin: 100px 30px 0;
   display: block;
